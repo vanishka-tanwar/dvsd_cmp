@@ -76,7 +76,7 @@ endmodule
 
 
 
-## Testbench for dvsd_8216m3
+## Testbench for dvsd_cmp
 
 ```
 
