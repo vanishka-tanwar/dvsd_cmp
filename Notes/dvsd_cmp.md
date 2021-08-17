@@ -201,8 +201,7 @@ module tb_dvsd_cmp;
         A_in = 1100;            
         B_in = 0011;                      
         #100;
-    end
-     
+    end    
 endmodule
 
 
