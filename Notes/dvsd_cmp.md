@@ -1,4 +1,4 @@
-# 8-BIT DADDA MULTIPLIER
+# 4 bit magnitude comparator
 
 
 ## DESCRIPTION:
